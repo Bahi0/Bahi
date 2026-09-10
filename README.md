@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bahi0
+- 👋 Hi, I’m @Bahi
 - 👀 I’m interested in web devloping
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on this journey
