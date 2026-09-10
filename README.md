@@ -2,9 +2,9 @@
 - 👀 I’m interested in web devloping
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on this journey
-- 📫 How to reach me, email me at maryrosedabasol@gmail.com
-- 😄 Pronouns: ...She
-- ⚡ Fun fact: ...I hopping from one site to another h=just to understand what this coding all about
+- 📫 How to reach me, email me at dic83@yahoo.com
+- 😄 Pronouns: ...Them
+- ⚡ Fun fact: ...I hopping from one site to another just to understand what this coding all about
 - 
 
 <!---
